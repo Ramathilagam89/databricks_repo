@@ -22,4 +22,4 @@ print(text_box_value)
 
 # COMMAND ----------
 
-spark.read.table(text_box_value).display()
+#spark.read.table(text_box_value).display()
